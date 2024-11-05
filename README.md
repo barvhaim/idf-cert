@@ -10,6 +10,7 @@ Hebrew fonts: http://freefonts.co.il/ for more fonts
 - Names list: `names.json`
 - Certificate template: `certificate_template.jpeg`
 - Output folder: `output/`
+- Font: `hebrew_font.ttf`
 
 ## Generate a certificate
 `python run.py`
