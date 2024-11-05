@@ -11,7 +11,7 @@ font_size = 36  # Adjust font size as needed
 
 
 def load_names():
-    with open('test_names.json') as f:
+    with open('names.json') as f:
         names = json.load(f)
     return names
 
